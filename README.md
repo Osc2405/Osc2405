@@ -1,44 +1,32 @@
-# 👋 Hello! I'm Oscar Rosero
+# 👋 ¡Hola! Soy Oscar Rosero
 
-## 🌟 About Me  
+## 🎯 BI Developer & Data Analyst | Power BI · Python · Qlik Sense
 
-I am a **Data Analyst** with expertise in **data science and Business Intelligence**, passionate about transforming raw data into actionable insights. With experience in **data visualization**, **machine learning**, and **ETL processes**, I specialize in leveraging tools like Python, Power BI, SQL, and Qlik Sense to solve complex problems and drive data-informed decisions.  
+Apasionado por convertir datos en decisiones. Ayudo a organizaciones a extraer valor de sus datos mediante soluciones de **Business Intelligence**, **automatización con Python** y **modelos analíticos eficientes**. 
 
-I am dedicated to continuous learning and enjoy tackling challenges related to **big data**, **business intelligence**, and **predictive analytics**. My goal is to empower organizations by delivering impactful analytics solutions and helping them unlock the full potential of their data.  
-
-## 💡 Key Skills  
-
-- **Languages & Tools:** Python, R, SQL, DAX, Power BI, Qlik Sense, Tableau  
-- **Technologies:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow  
-- **Specialties:** Data Cleaning, ETL Processes, Statistical Analysis, Machine Learning Models  
- 
-
-## 📧 You can reach me at **orosero2405@gmail.com**
-
+Con una formación en Ingeniería Biomédica, una especialización en Big Data y experiencia como **developer BI, líder de equipo** y **asistente docente**, combino el conocimiento técnico con habilidades de comunicación, liderazgo y pensamiento estratégico.
 
 ---
 
-## 🚀 My Social Media  
-| Platform    | Link         |  
-|-------------|--------------|  
-| **GitHub**  | [GitHub Profile](https://github.com/Osc2405) |  
-| **LinkedIn**| [LinkedIn Profile](https://www.linkedin.com/in/oscrosero24) |  
+## 🧩 ¿Qué hago?
+
+- ✅ Desarrollo dashboards interactivos con Power BI y Qlik Sense
+- 🧠 Automatizo reportes y procesos con Python y SQL
+- 📦 Diseño modelos de datos robustos para toma de decisiones
+- 💬 Acompaño a equipos en el uso e interpretación de sus datos
 
 ---
 
-## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Osc2405&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Osc2405&layout=compact&theme=radical)  
+## 🛠 Herramientas y Tecnologías
+
+**Lenguajes:** Python · SQL · DAX · R  
+**BI Tools:** Power BI · Qlik Sense · Tableau  
+**Análisis:** Pandas · NumPy · Scikit-learn · Matplotlib · TensorFlow  
+**Extras:** Git · Docker · Jupyter · APIs · ETL pipelines
 
 ---
 
-## 🔧 Technologies and Tools  
-- 🌐 **Languages:** Python, R, SQL, DAX  
-- 📊 **Tools:** Power BI, Tableau, Qlik Sense, Jupyter Notebooks  
-- 🛠 **Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow  
-- 🌟 **Other Tools:** Git, Docker  
+## 📬 ¿Charlamos?
 
----
-
-## ✉️ Connect with Me!  
-I’m always open to collaborating on exciting data projects or discussing opportunities in **data science** and **analytics**. Feel free to get in touch via email or LinkedIn!
+📩 orosero2405@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/oscrosero24)  
